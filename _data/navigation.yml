@@ -3,14 +3,14 @@ main:
   - title: "Work Experience "
     url: /publications/
 
-  - title: "Personal Projects"
-    url: /talks/    
+  #- title: "#"
+   # url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
     
- # - title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Personal Projects"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
