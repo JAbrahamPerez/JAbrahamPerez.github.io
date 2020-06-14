@@ -20,6 +20,11 @@ Certificacions
   * School of applied mathematics and Control EMAC 
   <br>
     [See credential](https://drive.google.com/file/d/1K9jGiwx5PDtk24xY-Swqy1H_lOo-19CH/view?usp=sharing)
+
+* Centro de Bachillerato Tecnológico Industrial y de Servicios CBTis No. 226, 2017
+  * Programming Technician
+  <br>
+    [See credential](https://drive.google.com/file/d/1OJYa7FVI3HZVav-96Y8K3k113p_31QTD/view?usp=sharing)
 * Universidad Complutense de Madrid, 2016
   * Mobile application development
   <br>
