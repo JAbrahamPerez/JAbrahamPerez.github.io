@@ -20,7 +20,7 @@ Certificacions
   * School of applied mathematics and Control EMAC 
   <br>
     [See credential](https://drive.google.com/file/d/1K9jGiwx5PDtk24xY-Swqy1H_lOo-19CH/view?usp=sharing)
-* Universidad Complutense de Madrid, 2017
+* Universidad Complutense de Madrid, 2016
   * Mobile application development
   <br>
     [See Credential](https://drive.google.com/file/d/1-NbKyba6RSKTTjcKcDVHGqCYGHs5Lr5p/view?usp=sharing)
