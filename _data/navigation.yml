@@ -3,8 +3,8 @@ main:
   - title: "Work experience "
     url: /publications/
 
- # - title: "Talks"
-  #  url: /talks/    
+  - title: "Personal Projects"
+    url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
- # - title: "CV"
-   # url:  download="CV_Abraham_Perez.pdf
+  - title: "Certifications / Awards"
+    url:  download="CV_Abraham_Perez.pdf
     
   #- title: "Guide"
    # url: /markdown/
